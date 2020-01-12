@@ -1,5 +1,5 @@
 import socket
-from omronfins import FinsConnection
+from fins import FinsConnection
 
 class UDPFinsConnection(FinsConnection):
 
